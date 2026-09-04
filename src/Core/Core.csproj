@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>LnWallet.Core</RootNamespace>
+    <AssemblyName>LnWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
